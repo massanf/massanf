@@ -1,3 +1,1 @@
-👋 Hi.
-
-Portfolio: [https://trombiano1.github.io/]
+👋 [Hi](https://trombiano1.github.io/).
